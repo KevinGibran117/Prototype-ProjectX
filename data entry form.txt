@@ -1,0 +1,15 @@
+hasil input dari "dataentryform.html" akan ditampilkan di 
+ googlesheet:
+https://docs.google.com/spreadsheets/d/1CI7gV3FkfJ1GSBfC72ExJFw-7gxdxidoJ2haG63_T4o/edit?usp=sharing
+
+dear god, payphone, thousand mile, move like jagger, jetlag
+
+!!! upload coding ke githib, sudah install apk Git!!!
+
+buka terminal
+git init
+git add .
+git commit -m 'buat website project X'
+git branch -M main
+git remote add origin https://github.com/KevinGibran117/project.git
+git push -u origin main
